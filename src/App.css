@@ -100,7 +100,7 @@
 }
 
 .contact-grid .social-links {
-  margin-top: 5px;
+  margin-top: 55px;
   display: flex;
   justify-content: space-between;
   flex-direction: row;
@@ -112,6 +112,10 @@
   color: black;
 }
 
+.resume-left-col {
+  background: #27221f;
+  color: white;
+}
 
 /* font-family: 'Lato', sans-serif;
 font-family: 'Noto Serif', serif; */

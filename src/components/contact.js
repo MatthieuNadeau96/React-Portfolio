@@ -11,15 +11,14 @@ class Contact extends Component {
             <img
               src="http://icons-for-free.com/icon/download-avatar_bald_man_user_icon-162511.png"
               alt="avatar"
-              style={{height: '250px'}}
+              style={{height: '250px', background: 'skyblue', borderRadius: '50%'}}
               />
-            <p>Don't be afraid to check me out or say hello!</p>
             <div className="social-links">
-              <a href="https://github.com/MatthieuNadeau96" target="_blank"><i class="fab fa-github"></i></a>
-              <a href="https://www.instagram.com/matthieu.codes/" target="_blank"><i class="fab fa-instagram"></i></a>
-              <a href="https://www.linkedin.com/in/matthieu-nadeau-28321013a/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
-              <a href="https://codepen.io/uMatthieu/" target="_blank"><i class="fab fa-codepen"></i></a>
-              <a href="https://medium.com/@matthieunadeau" target="_blank"><i class="fab fa-medium"></i></a>
+              <a href="https://github.com/MatthieuNadeau96" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
+              <a href="https://www.instagram.com/matthieu.codes/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+              <a href="https://www.linkedin.com/in/matthieu-nadeau-28321013a/" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin-in"></i></a>
+              <a href="https://codepen.io/uMatthieu/" target="_blank" rel="noopener noreferrer"><i class="fab fa-codepen"></i></a>
+              <a href="https://medium.com/@matthieunadeau" target="_blank" rel="noopener noreferrer"><i class="fab fa-medium"></i></a>
             </div>
           </Cell>
         </Grid>
